@@ -1,1 +1,2 @@
-# proy-personal-b95487
+# Proyecto Personal - CI-0137
+Mariana Murillo Quintana - B95487
